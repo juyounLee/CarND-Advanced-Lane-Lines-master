@@ -25,7 +25,7 @@ The goals / steps of this project are the following:
 ### Overview
 
 In this project, my goal is to write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. 
-[Here](Advance Lane Lines.ipynb) is my code.
+[Here](Advance_Lane_Lines.ipynb) is my code.
 Udacity Self-Driving Car Nanodegree - Project 2
 
 ### Process
